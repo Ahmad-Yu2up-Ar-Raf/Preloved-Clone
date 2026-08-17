@@ -12,7 +12,7 @@ A frontend clone of the [Preloved](https://preloved.co.id) app — a trusted Ind
 
 |                                                        |                           Light Mode                           |                                                      |
 | :----------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------: |
-| ![Home](./assets/images/mockup/ligth/beranda-1.png) | ![Products](./assets/images/mockup/ligth/products-explore-1.png) | ![Detail](./assets/images/mockup/ligth/detail-1.png) |
+| ![Home](./assets/images/mockup/light/beranda-1.png) | ![Products](./assets/images/mockup/light/products-explore-1.png) | ![Detail](./assets/images/mockup/light/detail-1.png) |
 
 |                                                       |                      Dark Mode                       |                                                |
 | :---------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------: |
@@ -39,10 +39,10 @@ A frontend clone of the [Preloved](https://preloved.co.id) app — a trusted Ind
 
 | Category      | Library                       |
 | ------------- | ------------------------------ |
-| Framework     | React Native + Expo SDK 52     |
-| Routing       | Expo Router v4                 |
+| Framework     | React Native + Expo SDK 54     |
+| Routing       | Expo Router v6                 |
 | Server State  | TanStack Query v5               |
-| Animation     | React Native Reanimated v3     |
+| Animation     | React Native Reanimated v4     |
 | Styling       | NativeWind v4 (Tailwind CSS)    |
 | Image         | expo-image                     |
 | Lottie        | lottie-react-native             |
@@ -96,8 +96,8 @@ preloved-clone/
 
 ```bash
 # Clone the repo
-git clone https://github.com/username/preloved-clone.git
-cd preloved-clone
+git clone https://github.com/Ahmad-Yu2up-Ar-Raf/preloved-ecommerce-clone.git
+cd preloved-ecommerce-clone
 
 # Install dependencies
 npm install
